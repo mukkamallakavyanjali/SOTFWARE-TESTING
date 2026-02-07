@@ -74,4 +74,4 @@ The response contains the newly generated ID.
 These screenshots show successful data retrieval and data creation.
 The task objectives of API testing using Postman are successfully completed.
 output
-
+![Image](https://github.com/user-attachments/assets/35eccf9e-ef1a-4086-bd17-dabcd49d6f64)
