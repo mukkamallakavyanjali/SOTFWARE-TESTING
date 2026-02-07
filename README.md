@@ -75,3 +75,4 @@ These screenshots show successful data retrieval and data creation.
 The task objectives of API testing using Postman are successfully completed.
 output
 ![Image](https://github.com/user-attachments/assets/35eccf9e-ef1a-4086-bd17-dabcd49d6f64)
+![Image](https://github.com/user-attachments/assets/3e2d3778-7682-469b-b36f-1e7e129a0507)
